@@ -1,0 +1,23 @@
+<view class="container">
+  <view class="introduce">
+    <view class="nav">技能标签：</view>
+  	<view class="html style">html+css</view>
+		<view class="js style">javascript</view>
+		<view class="css style">html5+css3</view>
+		<view class="canvas style">canvas</view>
+		<view class="jq style">JQuery</view>
+		<view class="git style">svn/git</view>
+    <view class="phonegap style">phoneGap/H5+</view>
+  	<view class="angular style">AngularJs</view>
+		<view class="react style">ReactJs</view>
+		<view class="vue style">VueJs</view>
+		<view class="bootstrap style">Bootstrap</view>
+		<view class="zepto style">zepto</view>
+		<view class="es style">ES6</view>
+    <view class="sass style">sass</view>
+		<view class="gulp style">gulp/webpack</view>
+		<view class="node style">nodeJs/mongoDB</view>
+		<view class="php style">php/mySQL</view>
+		<view class="media style">响应式布局 </view>
+	</view>
+</view>

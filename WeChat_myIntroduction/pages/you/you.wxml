@@ -1,0 +1,19 @@
+<view class="container">
+    <view class="address">项目名称：<view class="text">优交易（移动App）</view></view>
+  	<view class="time">项目描述：<view class="text">优交易，专注于为投资这提供策略咨讯和社交工具的垂直社交平台。提供证券投资能力的知识分享及探讨，培养良好的理财状态，实现餐服增值。</view></view>
+	<view class="work">技术要点：
+		<view class="text">1.使用Angular框架实现多人并行开发</view>	      	
+		<view class="text">2.使用css3实现动画</view>
+		<view class="text">3.使用swiper框架实现轮播效果</view>
+		<view class="text">4.利用媒体查询实现手机的适屏问题</view>
+	</view>
+	<view class="describe">责任描述：
+		<view class="text">1.使用angular中的$http服务调用数据</view>	      	
+		<view class="text">2.使用css3完成页面动画效果</view>
+		<view class="text">3.复杂的订单处理、登录注册、获取当前位置的实现</view>
+		<view class="text">4.使用H5的localstorage实现页面的数据缓存</view>
+	</view>
+</view>
+
+
+

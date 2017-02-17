@@ -1,0 +1,19 @@
+<view class="container">
+    <view class="address">项目名称：<view class="text">好钢汇（移动App）</view></view>
+  	<view class="time">项目描述：<view class="text">主打钢铁类电商交易，主打型钢产品，为用户提供钢铁现货的在线交易，撮合交易，仓储物流等一站式服务，减少交易环节，降低交易成本，提高交易效率。</view></view>
+	<view class="work">技术要点：
+		<view class="text">1.使用Vue框架</view>	      	
+		<view class="text">2.使用iscroll.js实现上拉加载，下拉刷新</view>
+		<view class="text">3.使用gulp工具管理代码</view>
+		<view class="text">4.利用响应式布局实现手机的适屏问题</view>
+	</view>
+	<view class="describe">责任描述：
+		<view class="text">1.主要负责移动端网页制作</view>	      	
+		<view class="text">2.使用Vue中列表渲染取出后台数据</view>
+		<view class="text">3.负责移动产品HTML5、CSS3的编写，AJAX数据交互，解决移动端适配问题</view>
+		<view class="text">4.实现产品交互方面的开发需求，确保产品具有优质的用户使用体验</view>
+	</view>
+</view>
+
+
+

@@ -1,0 +1,15 @@
+<view class="container">
+    <view class="address">工作单位：<view class="text">北京锐达信创科技有限公司</view></view>
+  	<view class="time">工作时间：<view class="text">2015/4-2017/2</view></view>
+	<view class="work">职位：<view class="text">HTML5开发工程师</view></view>
+	<view class="describe">工作描述：
+		<view class="text">1.部工程师围绕项目进行讨论研究，制定开发方案</view>	      	
+		<view class="text">2.助运营、执行编写页面制作、优化、用户体验等相关的技术文档</view>
+		<view class="text">3.现网站页面特效、JS效果</view>
+		<view class="text">4.站的页面及结构优化</view>
+		<view class="text">5.配后打包项目，进行测试，然后解决反馈的bug</view>
+	</view>
+</view>
+
+
+

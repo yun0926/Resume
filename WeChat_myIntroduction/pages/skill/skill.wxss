@@ -1,0 +1,93 @@
+.container{
+  display: block;
+  padding-bottom: 180rpx;
+}
+.nav{
+  font-size: 58rpx;
+  margin: 20rpx;
+  color: #425268;
+  font-weight: bold;
+}
+.style{
+  float: left;
+  width: 300rpx;
+  height: 80rpx;
+  line-height: 75rpx;
+  border-radius: 40rpx;
+  background: red;
+  text-align: center;
+  margin-top: 40rpx;
+  margin-left: 40rpx;
+}
+.html{
+  background: #f00;
+  width: 200rpx;
+}
+.js{
+  background: #0f0;
+  width: 230rpx;
+}
+.css{
+  background: #ffff00;
+  width: 230rpx;
+}
+.canvas{
+  background: #00fcff;
+  width: 150rpx;
+}
+.jq{
+  background: #fc00ff;
+  width: 150rpx;
+}
+.git{
+  background: #4200ff;
+  width: 180rpx;
+}
+.phonegap{
+  background: #e17126;
+  width: 300rpx;
+}
+.angular{
+  background: #e2648b;
+  width: 230rpx;
+}
+.react{
+  background: #68bc9b;
+  width: 200rpx;
+}
+.vue{
+  background: #9eaed2;
+  width: 150rpx;
+}
+.bootstrap{
+  background: #f30ec0;
+  width: 200rpx;
+}
+.zepto{
+  background: #8871cb;
+  width: 150rpx;
+}
+.es{
+  background: #4ed0dc;
+  width: 100rpx;
+}
+.sass{
+  background: #f86d10;
+  width: 120rpx;
+}
+.gulp{
+  background: #cef228;
+  width: 280rpx;
+}
+.node{
+  background: #f22879;
+  width: 340rpx;
+}
+.php{
+  background: #f0a9cb;
+  width: 230rpx;
+}
+.media{
+  background: #64ee4d;
+  width: 250rpx;
+}

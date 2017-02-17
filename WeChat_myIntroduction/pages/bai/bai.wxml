@@ -1,0 +1,19 @@
+<view class="container">
+    <view class="address">项目名称：<view class="text">百脑汇商城（PC端）</view></view>
+  	<view class="time">项目描述：<view class="text">这是一款网上电脑体验平台，用户可以根据自己的需求在网上购买电脑，维修电脑等。</view></view>
+	<view class="work">技术要点：
+		<view class="text">1.使用jquery实现用户的登录、注册的校验</view>	      	
+		<view class="text">2.使用div+css传统布局，实现页面搭建</view>
+		<view class="text">3.利用jquery，实现页面的动画效果</view>
+		<view class="text">4.使用Ajax技术读取后台数据，完成页面交互</view>
+	</view>
+	<view class="describe">责任描述：
+		<view class="text">1.网站前端的页面制作、优化、以及JS互动效果的实现</view>	      	
+		<view class="text">2.调试网站页面的兼容问题</view>
+		<view class="text">3.制作优化页面的代码，并增加交互动态功能</view>
+		<view class="text">4.负责页面更新迭代、维护</view>
+	</view>
+</view>
+
+
+

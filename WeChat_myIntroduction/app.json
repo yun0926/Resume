@@ -1,0 +1,52 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/experience/experience",
+    "pages/work/work",
+    "pages/skill/skill",
+    "pages/bai/bai",
+    "pages/drink/drink",
+    "pages/ai/ai",
+    "pages/you/you",
+    "pages/good/good"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#f52689",
+    "navigationBarTitleText": "自我介绍",
+    "enablePullDownRefresh":"true",
+    "navigationBarTextStyle":"#fff"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#f52689",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "img/my.png",
+        "selectedIconPath": "img/my_selected.png",
+        "text": "自我介绍"
+      }, 
+      {
+        "pagePath": "pages/skill/skill",
+        "iconPath": "img/jineng.png",
+        "selectedIconPath": "img/my_jineng.png",
+        "text": "技能介绍"
+      },
+      {
+        "pagePath": "pages/work/work",
+        "iconPath": "img/work.png",
+        "selectedIconPath": "img/work_selected.png",
+        "text": "工作经历"
+      },
+      {
+        "pagePath": "pages/experience/experience",
+        "iconPath": "img/h.png",
+        "selectedIconPath": "img/h_selected.png",
+        "text": "项目经验"
+      }
+    ]
+  }
+}

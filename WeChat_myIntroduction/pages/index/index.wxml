@@ -1,0 +1,9 @@
+<view class="container">
+	<view class="name"><text class="style">姓名：</text><text class="text">刘海云</text></view>
+		<view class="sex"><text class="style">性别：</text><text class="text">女</text></view>
+		<view class="age"><text class="style">年龄：</text><text class="text">24</text></view>
+		<view class="tel"><text class="style">电话：</text><text class="text phone" bindtap="callphone">18842646955</text></view>
+		<view class="email"><text class="style">邮箱：</text><text class="text">18842646955@163.com</text></view>
+		<view class="year"><text class="style">工作年限：</text><text class="text">二年</text></view>
+		<view class="address"><text class="style">现居地：</text><text class="text">{{location}}</text></view>
+</view>

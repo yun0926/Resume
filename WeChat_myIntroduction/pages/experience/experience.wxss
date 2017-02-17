@@ -1,0 +1,23 @@
+.container{
+	display: block;
+    padding-bottom: 180rpx;
+}
+.image{
+    width: 100%;
+    height: 350rpx;
+}
+.name{
+	font-size: 58rpx;
+	color: #425268;
+	font-weight: bold;
+	margin-left: 20rpx;
+	margin-top: 50rpx;
+}
+.text{
+    font-size: 48rpx;
+    color: #f00;
+    font-weight: bold;
+    margin-left: 120rpx;
+    margin-top: 40rpx;
+    margin-right: 20rpx;
+}

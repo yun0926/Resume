@@ -1,0 +1,34 @@
+.container{
+	display: block;
+	background-size: 100% 100%;
+	overflow: hidden;
+	padding-bottom: 120rpx;
+}
+.name,.age,.sex,.year,.tel,.email,.address{
+	font-size: 58rpx;
+	width: 100%;
+	color: #425268;
+	font-weight: bold;
+	margin-top: 30rpx;
+	height: 100rpx;
+	line-height: 100rpx;
+}
+.style{
+	width: 40%;
+	text-align: right;
+	display: block;
+	float: left;
+}
+.text{
+	width: 55%;
+	display: block;
+	float: left;
+  	font-size: 38rpx;
+	color: #333;
+	font-weight: bold;
+	margin-right: 5%;
+}
+.phone{
+	text-decoration: underline;
+	color: red;
+}

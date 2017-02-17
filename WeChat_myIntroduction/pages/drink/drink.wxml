@@ -1,0 +1,19 @@
+<view class="container">
+    <view class="address">项目名称：<view class="text">我要酒网商城（PC端）</view></view>
+  	<view class="time">项目描述：<view class="text">我要酒网商城，是一款网上就可以购买任意一款酒的种类的平台，用户可以在网上购买到自己想要的任意一款好酒。</view></view>
+	<view class="work">技术要点：
+		<view class="text">1.div+css准确布局</view>	      	
+		<view class="text">2.部分使用css3+html5技术实现动画效果</view>
+		<view class="text">3.使用swiper框架实现轮播效果</view>
+		<view class="text">4.cookie实现本地存储登录信息</view>
+	</view>
+	<view class="describe">责任描述：
+		<view class="text">1.编写主页面以及登录、注册页，以及实现js效果</view>	      	
+		<view class="text">2.使用css3完成页面动画效果</view>
+		<view class="text">3.复杂的订单处理、登录注册、获取当前位置的实现</view>
+		<view class="text">4.使用cookie实现页面的数据缓存</view>
+	</view>
+</view>
+
+
+

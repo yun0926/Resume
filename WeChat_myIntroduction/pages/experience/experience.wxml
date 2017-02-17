@@ -1,0 +1,17 @@
+<view class="container">
+  <swiper indicator-dots="{{indicatorDots}}"
+    autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" circular="{{circular}}">
+    <block wx:for="{{imgUrls}}" class="block">
+      <swiper-item>
+        <image src="{{item}}" class="image"/>
+      </swiper-item>
+    </block>
+  </swiper>
+  <view class="name">项目名称：
+		<view class="text" bindtap="bai">1.百脑汇商城（PC端）</view>	      	
+		<view class="text" bindtap="drink">2.我要酒网商城（PC端）</view>
+		<view class="text" bindtap="ai">3.爱艺网（移动端网站）</view>
+		<view class="text" bindtap="you">4.优交易（移动App）</view>
+		<view class="text" bindtap="good">5.好钢汇（移动App）</view>
+	</view>
+</view>

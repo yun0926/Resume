@@ -1,0 +1,18 @@
+.container{
+	display: block;
+}
+.address,.time,.work,.describe{
+	font-size: 58rpx;
+	color: #425268;
+	font-weight: bold;
+	margin-left: 20rpx;
+	margin-top: 40rpx;
+}
+.text{
+  font-size: 38rpx;
+	color: #333;
+	font-weight: bold;
+	margin-left: 120rpx;
+	margin-top: 30rpx;
+  margin-right: 20rpx;
+}

@@ -1,0 +1,19 @@
+<view class="container">
+    <view class="address">项目名称：<view class="text">爱艺网（移动端网站）</view></view>
+  	<view class="time">项目描述：<view class="text">主要致力于艺术品交易、书画交易、古玩交易、国画交易等电子商务的开发。</view></view>
+	<view class="work">技术要点：
+		<view class="text">1.使用bootstrap的栅格化系统实现页面在所有手机上的适配问题</view>	      	
+		<view class="text">2.使用iscroll.js实现上拉刷新、下拉加载</view>
+		<view class="text">3.使用gulp工具管理代码</view>
+		<view class="text">4.二级页面采用弹性盒，准确适配不同移动终端</view>
+	</view>
+	<view class="describe">责任描述：
+		<view class="text">1.负责移动产品HTML5、CSS3的编写</view>	      	
+		<view class="text">2.完成首页iscroll触屏缓冲滚动</view>
+		<view class="text">3.配合后端人员实现ajax数据交互</view>
+		<view class="text">4.实现产品交互方面的开发需求，确保产品具有优质的用户使用体验</view>
+	</view>
+</view>
+
+
+
